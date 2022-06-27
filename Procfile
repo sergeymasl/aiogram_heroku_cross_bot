@@ -1,1 +1,1 @@
-web: python cross.py
+web: python main.py
